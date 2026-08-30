@@ -1,0 +1,6 @@
+{
+  "name": "Chat Nexu",
+  "description": "Chat Nexu - Live anonymous chat, Omegle-style video roulette with 2-minute free preview & VIP subscriptions, Google sign up, creator wallet with bank & mobile money transfers, dynamic pricing manager, and AI assistant.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
